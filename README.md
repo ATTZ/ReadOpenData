@@ -1,5 +1,7 @@
 # ReadOpenData
 
+You can use netbeans open the project
+
 這是台灣的開放資料，
 就開放給大家抓資料用吧！
 
